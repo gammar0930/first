@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<style>
+   
+    #wrapper {
+      margin-left: 5%;
+    }
+    
+    .image {
+      position: absolute;
+      width: 270px;
+      height: 500px;
+    }
+    
+    .img1 {
+      -webkit-animation: appear 2s;
+      animation: appear 2s;
+      background-image: url("app_display1.jpg");
+      background-size: cover;
+    }
+    
+    .img2 {
+      -webkit-animation: appear 3s;
+      animation: appear 3s;
+      background-image: url("app_display2.jpg");
+      background-size: cover;
+    }
+    
+    .img3 {
+      -webkit-animation: appear 4s;
+      animation: appear 4s;
+      background-image: url("app_display3.jpg");
+      background-size: cover;
+    }
+    
+    
+    /* Chrome, Safari, Opera */
+    @-webkit-keyframes appear {
+        0%   {opacity: 0; margin-left: -25%;}
+        100% {opacity: 1;}
+    }
+    
+    /* IE */
+    @keyframes appear {
+        0%   {opacity: 0; margin-left: -25%;}
+        100% {opacity: 1;}
+    }
+    
+    .img1 {
+      z-index: 1;
+    }
+    .img2 {
+      z-index: 2;
+      margin-left: 300px;
+    }
+    
+    .img3 {
+      z-index: 3;
+      margin-left: 600px;
+    }
+   
+    .img1:hover{
+      z-index:10;
+    }
+    .img2:hover{
+      z-index:9;
+    }
+    .img3:hover{
+      z-index:8;
+    }
+   
+    
+    .img1, .img2, .img3{
+      transition: all 2s;
+    
+    }
+    
+    .img1:hover, .img2:hover, .img3:hover, .img4:hover, .img5:hover {
+      -webkit-tranform: scale(1.1);
+       transform: scale(1.1);
+    }
+    
+    </style>
+<body>
+    <div id="wrapper">
+  <div class="image img1"></div>
+  <div class="image img2"></div>
+  <div class="image img3"></div>
+  <div>
+    <h1 style="position: absolute; left: 50px;
+    top: 500px;">※画像はイメージです。実際の契約有無とは異なります。</h1>
+  </div>
+
+</div>
+
+</body>
+</html>

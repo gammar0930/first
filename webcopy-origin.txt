@@ -1,0 +1,968 @@
+Uri: https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js
+File Name: C:\Downloaded Web Sites\hizakurige.com\ajax\libs\jquery\3.6.0\jquery.min.js
+Content Type: text/javascript
+
+Uri: https://hizakurige.com/
+File Name: C:\Downloaded Web Sites\hizakurige.com\index.htm
+Content Type: text/html
+
+Uri: https://hizakurige.com/favicon.ico
+File Name: C:\Downloaded Web Sites\hizakurige.com\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://hizakurige.com/img/apple-touch-icon.webp
+File Name: C:\Downloaded Web Sites\hizakurige.com\img\apple-touch-icon.webp
+Content Type: image/webp
+
+Uri: https://hizakurige.com/img/app_display1.jpg
+File Name: C:\Downloaded Web Sites\hizakurige.com\img\app_display1.jpg
+Content Type: image/jpeg
+
+Uri: https://hizakurige.com/img/app_display1.webp
+File Name: C:\Downloaded Web Sites\hizakurige.com\img\app_display1.webp
+Content Type: image/webp
+
+Uri: https://hizakurige.com/img/app_display1_sp.jpg
+File Name: C:\Downloaded Web Sites\hizakurige.com\img\app_display1_sp.jpg
+Content Type: image/jpeg
+
+Uri: https://hizakurige.com/img/app_display1_sp.webp
+File Name: C:\Downloaded Web Sites\hizakurige.com\img\app_display1_sp.webp
+Content Type: image/webp
+
+Uri: https://hizakurige.com/img/app_display2.jpg
+File Name: C:\Downloaded Web Sites\hizakurige.com\img\app_display2.jpg
+Content Type: image/jpeg
+
+Uri: https://hizakurige.com/img/app_display2.webp
+File Name: C:\Downloaded Web Sites\hizakurige.com\img\app_display2.webp
+Content Type: image/webp
+
+Uri: https://hizakurige.com/img/app_display2_sp.jpg
+File Name: C:\Downloaded Web Sites\hizakurige.com\img\app_display2_sp.jpg
+Content Type: image/jpeg
+
+Uri: https://hizakurige.com/img/app_display2_sp.webp
+File Name: C:\Downloaded Web Sites\hizakurige.com\img\app_display2_sp.webp
+Content Type: image/webp
+
+Uri: https://hizakurige.com/img/app_display3.jpg
+File Name: C:\Downloaded Web Sites\hizakurige.com\img\app_display3.jpg
+Content Type: image/jpeg
+
+Uri: https://hizakurige.com/img/app_display3.webp
+File Name: C:\Downloaded Web Sites\hizakurige.com\img\app_display3.webp
+Content Type: image/webp
+
+Uri: https://hizakurige.com/img/app_display3_sp.jpg
+File Name: C:\Downloaded Web Sites\hizakurige.com\img\app_display3_sp.jpg
+Content Type: image/jpeg
+
+Uri: https://hizakurige.com/img/app_display3_sp.webp
+File Name: C:\Downloaded Web Sites\hizakurige.com\img\app_display3_sp.webp
+Content Type: image/webp
+
+Uri: https://hizakurige.com/img/art_image1.jpg
+File Name: C:\Downloaded Web Sites\hizakurige.com\img\art_image1.jpg
+Content Type: image/jpeg
+
+Uri: https://hizakurige.com/img/art_image1.webp
+File Name: C:\Downloaded Web Sites\hizakurige.com\img\art_image1.webp
+Content Type: image/webp
+
+Uri: https://hizakurige.com/img/art_image1_sp.jpg
+File Name: C:\Downloaded Web Sites\hizakurige.com\img\art_image1_sp.jpg
+Content Type: image/jpeg
+
+Uri: https://hizakurige.com/img/art_image1_sp.webp
+File Name: C:\Downloaded Web Sites\hizakurige.com\img\art_image1_sp.webp
+Content Type: image/webp
+
+Uri: https://hizakurige.com/img/art_image2.jpg
+File Name: C:\Downloaded Web Sites\hizakurige.com\img\art_image2.jpg
+Content Type: image/jpeg
+
+Uri: https://hizakurige.com/img/art_image2.webp
+File Name: C:\Downloaded Web Sites\hizakurige.com\img\art_image2.webp
+Content Type: image/webp
+
+Uri: https://hizakurige.com/img/art_image2_sp.jpg
+File Name: C:\Downloaded Web Sites\hizakurige.com\img\art_image2_sp.jpg
+Content Type: image/jpeg
+
+Uri: https://hizakurige.com/img/art_image2_sp.webp
+File Name: C:\Downloaded Web Sites\hizakurige.com\img\art_image2_sp.webp
+Content Type: image/webp
+
+Uri: https://hizakurige.com/img/art_image3.jpg
+File Name: C:\Downloaded Web Sites\hizakurige.com\img\art_image3.jpg
+Content Type: image/jpeg
+
+Uri: https://hizakurige.com/img/art_image3.webp
+File Name: C:\Downloaded Web Sites\hizakurige.com\img\art_image3.webp
+Content Type: image/webp
+
+Uri: https://hizakurige.com/img/art_image3_sp.jpg
+File Name: C:\Downloaded Web Sites\hizakurige.com\img\art_image3_sp.jpg
+Content Type: image/jpeg
+
+Uri: https://hizakurige.com/img/art_image3_sp.webp
+File Name: C:\Downloaded Web Sites\hizakurige.com\img\art_image3_sp.webp
+Content Type: image/webp
+
+Uri: https://hizakurige.com/img/art_image4.jpg
+File Name: C:\Downloaded Web Sites\hizakurige.com\img\art_image4.jpg
+Content Type: image/jpeg
+
+Uri: https://hizakurige.com/img/art_image4.webp
+File Name: C:\Downloaded Web Sites\hizakurige.com\img\art_image4.webp
+Content Type: image/webp
+
+Uri: https://hizakurige.com/img/art_image4_sp.jpg
+File Name: C:\Downloaded Web Sites\hizakurige.com\img\art_image4_sp.jpg
+Content Type: image/jpeg
+
+Uri: https://hizakurige.com/img/art_image4_sp.webp
+File Name: C:\Downloaded Web Sites\hizakurige.com\img\art_image4_sp.webp
+Content Type: image/webp
+
+Uri: https://hizakurige.com/img/art_image5.jpg
+File Name: C:\Downloaded Web Sites\hizakurige.com\img\art_image5.jpg
+Content Type: image/jpeg
+
+Uri: https://hizakurige.com/img/art_image5.webp
+File Name: C:\Downloaded Web Sites\hizakurige.com\img\art_image5.webp
+Content Type: image/webp
+
+Uri: https://hizakurige.com/img/art_image5_sp.jpg
+File Name: C:\Downloaded Web Sites\hizakurige.com\img\art_image5_sp.jpg
+Content Type: image/jpeg
+
+Uri: https://hizakurige.com/img/art_image5_sp.webp
+File Name: C:\Downloaded Web Sites\hizakurige.com\img\art_image5_sp.webp
+Content Type: image/webp
+
+Uri: https://hizakurige.com/img/arw_l.svg
+File Name: C:\Downloaded Web Sites\hizakurige.com\img\arw_l.svg
+Content Type: image/svg+xml
+
+Uri: https://hizakurige.com/img/arw_r.svg
+File Name: C:\Downloaded Web Sites\hizakurige.com\img\arw_r.svg
+Content Type: image/svg+xml
+
+Uri: https://hizakurige.com/img/chaya.webp
+File Name: C:\Downloaded Web Sites\hizakurige.com\img\chaya.webp
+Content Type: image/webp
+
+Uri: https://hizakurige.com/img/chaya_image1.jpg
+File Name: C:\Downloaded Web Sites\hizakurige.com\img\chaya_image1.jpg
+Content Type: image/jpeg
+
+Uri: https://hizakurige.com/img/chaya_image1.webp
+File Name: C:\Downloaded Web Sites\hizakurige.com\img\chaya_image1.webp
+Content Type: image/webp
+
+Uri: https://hizakurige.com/img/chaya_image10.jpg
+File Name: C:\Downloaded Web Sites\hizakurige.com\img\chaya_image10.jpg
+Content Type: image/jpeg
+
+Uri: https://hizakurige.com/img/chaya_image10.webp
+File Name: C:\Downloaded Web Sites\hizakurige.com\img\chaya_image10.webp
+Content Type: image/webp
+
+Uri: https://hizakurige.com/img/chaya_image10_sp.jpg
+File Name: C:\Downloaded Web Sites\hizakurige.com\img\chaya_image10_sp.jpg
+Content Type: image/jpeg
+
+Uri: https://hizakurige.com/img/chaya_image10_sp.webp
+File Name: C:\Downloaded Web Sites\hizakurige.com\img\chaya_image10_sp.webp
+Content Type: image/webp
+
+Uri: https://hizakurige.com/img/chaya_image11.jpg
+File Name: C:\Downloaded Web Sites\hizakurige.com\img\chaya_image11.jpg
+Content Type: image/jpeg
+
+Uri: https://hizakurige.com/img/chaya_image11.webp
+File Name: C:\Downloaded Web Sites\hizakurige.com\img\chaya_image11.webp
+Content Type: image/webp
+
+Uri: https://hizakurige.com/img/chaya_image11_sp.jpg
+File Name: C:\Downloaded Web Sites\hizakurige.com\img\chaya_image11_sp.jpg
+Content Type: image/jpeg
+
+Uri: https://hizakurige.com/img/chaya_image11_sp.webp
+File Name: C:\Downloaded Web Sites\hizakurige.com\img\chaya_image11_sp.webp
+Content Type: image/webp
+
+Uri: https://hizakurige.com/img/chaya_image12.jpg
+File Name: C:\Downloaded Web Sites\hizakurige.com\img\chaya_image12.jpg
+Content Type: image/jpeg
+
+Uri: https://hizakurige.com/img/chaya_image12.webp
+File Name: C:\Downloaded Web Sites\hizakurige.com\img\chaya_image12.webp
+Content Type: image/webp
+
+Uri: https://hizakurige.com/img/chaya_image12_sp.jpg
+File Name: C:\Downloaded Web Sites\hizakurige.com\img\chaya_image12_sp.jpg
+Content Type: image/jpeg
+
+Uri: https://hizakurige.com/img/chaya_image12_sp.webp
+File Name: C:\Downloaded Web Sites\hizakurige.com\img\chaya_image12_sp.webp
+Content Type: image/webp
+
+Uri: https://hizakurige.com/img/chaya_image13.jpg
+File Name: C:\Downloaded Web Sites\hizakurige.com\img\chaya_image13.jpg
+Content Type: image/jpeg
+
+Uri: https://hizakurige.com/img/chaya_image13.webp
+File Name: C:\Downloaded Web Sites\hizakurige.com\img\chaya_image13.webp
+Content Type: image/webp
+
+Uri: https://hizakurige.com/img/chaya_image13_sp.jpg
+File Name: C:\Downloaded Web Sites\hizakurige.com\img\chaya_image13_sp.jpg
+Content Type: image/jpeg
+
+Uri: https://hizakurige.com/img/chaya_image13_sp.webp
+File Name: C:\Downloaded Web Sites\hizakurige.com\img\chaya_image13_sp.webp
+Content Type: image/webp
+
+Uri: https://hizakurige.com/img/chaya_image14.jpg
+File Name: C:\Downloaded Web Sites\hizakurige.com\img\chaya_image14.jpg
+Content Type: image/jpeg
+
+Uri: https://hizakurige.com/img/chaya_image14.webp
+File Name: C:\Downloaded Web Sites\hizakurige.com\img\chaya_image14.webp
+Content Type: image/webp
+
+Uri: https://hizakurige.com/img/chaya_image14_sp.jpg
+File Name: C:\Downloaded Web Sites\hizakurige.com\img\chaya_image14_sp.jpg
+Content Type: image/jpeg
+
+Uri: https://hizakurige.com/img/chaya_image14_sp.webp
+File Name: C:\Downloaded Web Sites\hizakurige.com\img\chaya_image14_sp.webp
+Content Type: image/webp
+
+Uri: https://hizakurige.com/img/chaya_image1_sp.jpg
+File Name: C:\Downloaded Web Sites\hizakurige.com\img\chaya_image1_sp.jpg
+Content Type: image/jpeg
+
+Uri: https://hizakurige.com/img/chaya_image1_sp.webp
+File Name: C:\Downloaded Web Sites\hizakurige.com\img\chaya_image1_sp.webp
+Content Type: image/webp
+
+Uri: https://hizakurige.com/img/chaya_image2.jpg
+File Name: C:\Downloaded Web Sites\hizakurige.com\img\chaya_image2.jpg
+Content Type: image/jpeg
+
+Uri: https://hizakurige.com/img/chaya_image2.webp
+File Name: C:\Downloaded Web Sites\hizakurige.com\img\chaya_image2.webp
+Content Type: image/webp
+
+Uri: https://hizakurige.com/img/chaya_image2_sp.jpg
+File Name: C:\Downloaded Web Sites\hizakurige.com\img\chaya_image2_sp.jpg
+Content Type: image/jpeg
+
+Uri: https://hizakurige.com/img/chaya_image2_sp.webp
+File Name: C:\Downloaded Web Sites\hizakurige.com\img\chaya_image2_sp.webp
+Content Type: image/webp
+
+Uri: https://hizakurige.com/img/chaya_image3.jpg
+File Name: C:\Downloaded Web Sites\hizakurige.com\img\chaya_image3.jpg
+Content Type: image/jpeg
+
+Uri: https://hizakurige.com/img/chaya_image3.webp
+File Name: C:\Downloaded Web Sites\hizakurige.com\img\chaya_image3.webp
+Content Type: image/webp
+
+Uri: https://hizakurige.com/img/chaya_image3_sp.jpg
+File Name: C:\Downloaded Web Sites\hizakurige.com\img\chaya_image3_sp.jpg
+Content Type: image/jpeg
+
+Uri: https://hizakurige.com/img/chaya_image3_sp.webp
+File Name: C:\Downloaded Web Sites\hizakurige.com\img\chaya_image3_sp.webp
+Content Type: image/webp
+
+Uri: https://hizakurige.com/img/chaya_image4.jpg
+File Name: C:\Downloaded Web Sites\hizakurige.com\img\chaya_image4.jpg
+Content Type: image/jpeg
+
+Uri: https://hizakurige.com/img/chaya_image4.webp
+File Name: C:\Downloaded Web Sites\hizakurige.com\img\chaya_image4.webp
+Content Type: image/webp
+
+Uri: https://hizakurige.com/img/chaya_image4_sp.jpg
+File Name: C:\Downloaded Web Sites\hizakurige.com\img\chaya_image4_sp.jpg
+Content Type: image/jpeg
+
+Uri: https://hizakurige.com/img/chaya_image4_sp.webp
+File Name: C:\Downloaded Web Sites\hizakurige.com\img\chaya_image4_sp.webp
+Content Type: image/webp
+
+Uri: https://hizakurige.com/img/chaya_image5.jpg
+File Name: C:\Downloaded Web Sites\hizakurige.com\img\chaya_image5.jpg
+Content Type: image/jpeg
+
+Uri: https://hizakurige.com/img/chaya_image5.webp
+File Name: C:\Downloaded Web Sites\hizakurige.com\img\chaya_image5.webp
+Content Type: image/webp
+
+Uri: https://hizakurige.com/img/chaya_image5_sp.jpg
+File Name: C:\Downloaded Web Sites\hizakurige.com\img\chaya_image5_sp.jpg
+Content Type: image/jpeg
+
+Uri: https://hizakurige.com/img/chaya_image5_sp.webp
+File Name: C:\Downloaded Web Sites\hizakurige.com\img\chaya_image5_sp.webp
+Content Type: image/webp
+
+Uri: https://hizakurige.com/img/chaya_image6.jpg
+File Name: C:\Downloaded Web Sites\hizakurige.com\img\chaya_image6.jpg
+Content Type: image/jpeg
+
+Uri: https://hizakurige.com/img/chaya_image6.webp
+File Name: C:\Downloaded Web Sites\hizakurige.com\img\chaya_image6.webp
+Content Type: image/webp
+
+Uri: https://hizakurige.com/img/chaya_image6_sp.jpg
+File Name: C:\Downloaded Web Sites\hizakurige.com\img\chaya_image6_sp.jpg
+Content Type: image/jpeg
+
+Uri: https://hizakurige.com/img/chaya_image6_sp.webp
+File Name: C:\Downloaded Web Sites\hizakurige.com\img\chaya_image6_sp.webp
+Content Type: image/webp
+
+Uri: https://hizakurige.com/img/chaya_image7.jpg
+File Name: C:\Downloaded Web Sites\hizakurige.com\img\chaya_image7.jpg
+Content Type: image/jpeg
+
+Uri: https://hizakurige.com/img/chaya_image7.webp
+File Name: C:\Downloaded Web Sites\hizakurige.com\img\chaya_image7.webp
+Content Type: image/webp
+
+Uri: https://hizakurige.com/img/chaya_image7_sp.jpg
+File Name: C:\Downloaded Web Sites\hizakurige.com\img\chaya_image7_sp.jpg
+Content Type: image/jpeg
+
+Uri: https://hizakurige.com/img/chaya_image7_sp.webp
+File Name: C:\Downloaded Web Sites\hizakurige.com\img\chaya_image7_sp.webp
+Content Type: image/webp
+
+Uri: https://hizakurige.com/img/chaya_image8.jpg
+File Name: C:\Downloaded Web Sites\hizakurige.com\img\chaya_image8.jpg
+Content Type: image/jpeg
+
+Uri: https://hizakurige.com/img/chaya_image8.webp
+File Name: C:\Downloaded Web Sites\hizakurige.com\img\chaya_image8.webp
+Content Type: image/webp
+
+Uri: https://hizakurige.com/img/chaya_image8_sp.jpg
+File Name: C:\Downloaded Web Sites\hizakurige.com\img\chaya_image8_sp.jpg
+Content Type: image/jpeg
+
+Uri: https://hizakurige.com/img/chaya_image8_sp.webp
+File Name: C:\Downloaded Web Sites\hizakurige.com\img\chaya_image8_sp.webp
+Content Type: image/webp
+
+Uri: https://hizakurige.com/img/chaya_image9.jpg
+File Name: C:\Downloaded Web Sites\hizakurige.com\img\chaya_image9.jpg
+Content Type: image/jpeg
+
+Uri: https://hizakurige.com/img/chaya_image9.webp
+File Name: C:\Downloaded Web Sites\hizakurige.com\img\chaya_image9.webp
+Content Type: image/webp
+
+Uri: https://hizakurige.com/img/chaya_image9_sp.jpg
+File Name: C:\Downloaded Web Sites\hizakurige.com\img\chaya_image9_sp.jpg
+Content Type: image/jpeg
+
+Uri: https://hizakurige.com/img/chaya_image9_sp.webp
+File Name: C:\Downloaded Web Sites\hizakurige.com\img\chaya_image9_sp.webp
+Content Type: image/webp
+
+Uri: https://hizakurige.com/img/chaya_sp.webp
+File Name: C:\Downloaded Web Sites\hizakurige.com\img\chaya_sp.webp
+Content Type: image/webp
+
+Uri: https://hizakurige.com/img/firstview_image1.jpg
+File Name: C:\Downloaded Web Sites\hizakurige.com\img\firstview_image1.jpg
+Content Type: image/jpeg
+
+Uri: https://hizakurige.com/img/firstview_image1.webp
+File Name: C:\Downloaded Web Sites\hizakurige.com\img\firstview_image1.webp
+Content Type: image/webp
+
+Uri: https://hizakurige.com/img/firstview_image1_sp.jpg
+File Name: C:\Downloaded Web Sites\hizakurige.com\img\firstview_image1_sp.jpg
+Content Type: image/jpeg
+
+Uri: https://hizakurige.com/img/firstview_image1_sp.webp
+File Name: C:\Downloaded Web Sites\hizakurige.com\img\firstview_image1_sp.webp
+Content Type: image/webp
+
+Uri: https://hizakurige.com/img/firstview_image2.jpg
+File Name: C:\Downloaded Web Sites\hizakurige.com\img\firstview_image2.jpg
+Content Type: image/jpeg
+
+Uri: https://hizakurige.com/img/firstview_image2.webp
+File Name: C:\Downloaded Web Sites\hizakurige.com\img\firstview_image2.webp
+Content Type: image/webp
+
+Uri: https://hizakurige.com/img/firstview_image2_sp.jpg
+File Name: C:\Downloaded Web Sites\hizakurige.com\img\firstview_image2_sp.jpg
+Content Type: image/jpeg
+
+Uri: https://hizakurige.com/img/firstview_image2_sp.webp
+File Name: C:\Downloaded Web Sites\hizakurige.com\img\firstview_image2_sp.webp
+Content Type: image/webp
+
+Uri: https://hizakurige.com/img/firstview_image3.jpg
+File Name: C:\Downloaded Web Sites\hizakurige.com\img\firstview_image3.jpg
+Content Type: image/jpeg
+
+Uri: https://hizakurige.com/img/firstview_image3.webp
+File Name: C:\Downloaded Web Sites\hizakurige.com\img\firstview_image3.webp
+Content Type: image/webp
+
+Uri: https://hizakurige.com/img/firstview_image3_sp.jpg
+File Name: C:\Downloaded Web Sites\hizakurige.com\img\firstview_image3_sp.jpg
+Content Type: image/jpeg
+
+Uri: https://hizakurige.com/img/firstview_image3_sp.webp
+File Name: C:\Downloaded Web Sites\hizakurige.com\img\firstview_image3_sp.webp
+Content Type: image/webp
+
+Uri: https://hizakurige.com/img/firstview_image4.jpg
+File Name: C:\Downloaded Web Sites\hizakurige.com\img\firstview_image4.jpg
+Content Type: image/jpeg
+
+Uri: https://hizakurige.com/img/firstview_image4.webp
+File Name: C:\Downloaded Web Sites\hizakurige.com\img\firstview_image4.webp
+Content Type: image/webp
+
+Uri: https://hizakurige.com/img/firstview_image4_sp.jpg
+File Name: C:\Downloaded Web Sites\hizakurige.com\img\firstview_image4_sp.jpg
+Content Type: image/jpeg
+
+Uri: https://hizakurige.com/img/firstview_image4_sp.webp
+File Name: C:\Downloaded Web Sites\hizakurige.com\img\firstview_image4_sp.webp
+Content Type: image/webp
+
+Uri: https://hizakurige.com/img/firstview_image5.jpg
+File Name: C:\Downloaded Web Sites\hizakurige.com\img\firstview_image5.jpg
+Content Type: image/jpeg
+
+Uri: https://hizakurige.com/img/firstview_image5.webp
+File Name: C:\Downloaded Web Sites\hizakurige.com\img\firstview_image5.webp
+Content Type: image/webp
+
+Uri: https://hizakurige.com/img/firstview_image5_sp.jpg
+File Name: C:\Downloaded Web Sites\hizakurige.com\img\firstview_image5_sp.jpg
+Content Type: image/jpeg
+
+Uri: https://hizakurige.com/img/firstview_image5_sp.webp
+File Name: C:\Downloaded Web Sites\hizakurige.com\img\firstview_image5_sp.webp
+Content Type: image/webp
+
+Uri: https://hizakurige.com/img/firstview_image6.jpg
+File Name: C:\Downloaded Web Sites\hizakurige.com\img\firstview_image6.jpg
+Content Type: image/jpeg
+
+Uri: https://hizakurige.com/img/firstview_image6.webp
+File Name: C:\Downloaded Web Sites\hizakurige.com\img\firstview_image6.webp
+Content Type: image/webp
+
+Uri: https://hizakurige.com/img/firstview_image6_sp.jpg
+File Name: C:\Downloaded Web Sites\hizakurige.com\img\firstview_image6_sp.jpg
+Content Type: image/jpeg
+
+Uri: https://hizakurige.com/img/firstview_image6_sp.webp
+File Name: C:\Downloaded Web Sites\hizakurige.com\img\firstview_image6_sp.webp
+Content Type: image/webp
+
+Uri: https://hizakurige.com/img/firstview_image7.jpg
+File Name: C:\Downloaded Web Sites\hizakurige.com\img\firstview_image7.jpg
+Content Type: image/jpeg
+
+Uri: https://hizakurige.com/img/firstview_image7.webp
+File Name: C:\Downloaded Web Sites\hizakurige.com\img\firstview_image7.webp
+Content Type: image/webp
+
+Uri: https://hizakurige.com/img/firstview_image7_sp.jpg
+File Name: C:\Downloaded Web Sites\hizakurige.com\img\firstview_image7_sp.jpg
+Content Type: image/jpeg
+
+Uri: https://hizakurige.com/img/firstview_image7_sp.webp
+File Name: C:\Downloaded Web Sites\hizakurige.com\img\firstview_image7_sp.webp
+Content Type: image/webp
+
+Uri: https://hizakurige.com/img/firstview_image8.jpg
+File Name: C:\Downloaded Web Sites\hizakurige.com\img\firstview_image8.jpg
+Content Type: image/jpeg
+
+Uri: https://hizakurige.com/img/firstview_image8.webp
+File Name: C:\Downloaded Web Sites\hizakurige.com\img\firstview_image8.webp
+Content Type: image/webp
+
+Uri: https://hizakurige.com/img/firstview_image8_sp.jpg
+File Name: C:\Downloaded Web Sites\hizakurige.com\img\firstview_image8_sp.jpg
+Content Type: image/jpeg
+
+Uri: https://hizakurige.com/img/firstview_image8_sp.webp
+File Name: C:\Downloaded Web Sites\hizakurige.com\img\firstview_image8_sp.webp
+Content Type: image/webp
+
+Uri: https://hizakurige.com/img/firstview_image9.jpg
+File Name: C:\Downloaded Web Sites\hizakurige.com\img\firstview_image9.jpg
+Content Type: image/jpeg
+
+Uri: https://hizakurige.com/img/firstview_image9.webp
+File Name: C:\Downloaded Web Sites\hizakurige.com\img\firstview_image9.webp
+Content Type: image/webp
+
+Uri: https://hizakurige.com/img/firstview_image9_sp.jpg
+File Name: C:\Downloaded Web Sites\hizakurige.com\img\firstview_image9_sp.jpg
+Content Type: image/jpeg
+
+Uri: https://hizakurige.com/img/firstview_image9_sp.webp
+File Name: C:\Downloaded Web Sites\hizakurige.com\img\firstview_image9_sp.webp
+Content Type: image/webp
+
+Uri: https://hizakurige.com/img/ico_play_video.svg
+File Name: C:\Downloaded Web Sites\hizakurige.com\img\ico_play_video.svg
+Content Type: image/svg+xml
+
+Uri: https://hizakurige.com/img/logo_apple_store.svg
+File Name: C:\Downloaded Web Sites\hizakurige.com\img\logo_apple_store.svg
+Content Type: image/svg+xml
+
+Uri: https://hizakurige.com/img/logo_fb.svg
+File Name: C:\Downloaded Web Sites\hizakurige.com\img\logo_fb.svg
+Content Type: image/svg+xml
+
+Uri: https://hizakurige.com/img/logo_google_play.svg
+File Name: C:\Downloaded Web Sites\hizakurige.com\img\logo_google_play.svg
+Content Type: image/svg+xml
+
+Uri: https://hizakurige.com/img/logo_hizakurige_color.svg
+File Name: C:\Downloaded Web Sites\hizakurige.com\img\logo_hizakurige_color.svg
+Content Type: image/svg+xml
+
+Uri: https://hizakurige.com/img/logo_hizakurige_wht.svg?ver=0427-03
+File Name: C:\Downloaded Web Sites\hizakurige.com\img\logo_hizakurige_wht.svg
+Content Type: image/svg+xml
+
+Uri: https://hizakurige.com/img/logo_insta.svg
+File Name: C:\Downloaded Web Sites\hizakurige.com\img\logo_insta.svg
+Content Type: image/svg+xml
+
+Uri: https://hizakurige.com/img/logo_yt.svg
+File Name: C:\Downloaded Web Sites\hizakurige.com\img\logo_yt.svg
+Content Type: image/svg+xml
+
+Uri: https://hizakurige.com/img/magazine_display1.webp
+File Name: C:\Downloaded Web Sites\hizakurige.com\img\magazine_display1.webp
+Content Type: image/webp
+
+Uri: https://hizakurige.com/img/magazine_image1.jpg
+File Name: C:\Downloaded Web Sites\hizakurige.com\img\magazine_image1.jpg
+Content Type: image/jpeg
+
+Uri: https://hizakurige.com/img/magazine_image1.webp
+File Name: C:\Downloaded Web Sites\hizakurige.com\img\magazine_image1.webp
+Content Type: image/webp
+
+Uri: https://hizakurige.com/img/magazine_image10.jpg
+File Name: C:\Downloaded Web Sites\hizakurige.com\img\magazine_image10.jpg
+Content Type: image/jpeg
+
+Uri: https://hizakurige.com/img/magazine_image10.webp
+File Name: C:\Downloaded Web Sites\hizakurige.com\img\magazine_image10.webp
+Content Type: image/webp
+
+Uri: https://hizakurige.com/img/magazine_image10_sp.jpg
+File Name: C:\Downloaded Web Sites\hizakurige.com\img\magazine_image10_sp.jpg
+Content Type: image/jpeg
+
+Uri: https://hizakurige.com/img/magazine_image10_sp.webp
+File Name: C:\Downloaded Web Sites\hizakurige.com\img\magazine_image10_sp.webp
+Content Type: image/webp
+
+Uri: https://hizakurige.com/img/magazine_image11.jpg
+File Name: C:\Downloaded Web Sites\hizakurige.com\img\magazine_image11.jpg
+Content Type: image/jpeg
+
+Uri: https://hizakurige.com/img/magazine_image11.webp
+File Name: C:\Downloaded Web Sites\hizakurige.com\img\magazine_image11.webp
+Content Type: image/webp
+
+Uri: https://hizakurige.com/img/magazine_image11_sp.jpg
+File Name: C:\Downloaded Web Sites\hizakurige.com\img\magazine_image11_sp.jpg
+Content Type: image/jpeg
+
+Uri: https://hizakurige.com/img/magazine_image11_sp.webp
+File Name: C:\Downloaded Web Sites\hizakurige.com\img\magazine_image11_sp.webp
+Content Type: image/webp
+
+Uri: https://hizakurige.com/img/magazine_image12.jpg
+File Name: C:\Downloaded Web Sites\hizakurige.com\img\magazine_image12.jpg
+Content Type: image/jpeg
+
+Uri: https://hizakurige.com/img/magazine_image12.webp
+File Name: C:\Downloaded Web Sites\hizakurige.com\img\magazine_image12.webp
+Content Type: image/webp
+
+Uri: https://hizakurige.com/img/magazine_image12_sp.jpg
+File Name: C:\Downloaded Web Sites\hizakurige.com\img\magazine_image12_sp.jpg
+Content Type: image/jpeg
+
+Uri: https://hizakurige.com/img/magazine_image12_sp.webp
+File Name: C:\Downloaded Web Sites\hizakurige.com\img\magazine_image12_sp.webp
+Content Type: image/webp
+
+Uri: https://hizakurige.com/img/magazine_image1_sp.jpg
+File Name: C:\Downloaded Web Sites\hizakurige.com\img\magazine_image1_sp.jpg
+Content Type: image/jpeg
+
+Uri: https://hizakurige.com/img/magazine_image1_sp.webp
+File Name: C:\Downloaded Web Sites\hizakurige.com\img\magazine_image1_sp.webp
+Content Type: image/webp
+
+Uri: https://hizakurige.com/img/magazine_image2.jpg
+File Name: C:\Downloaded Web Sites\hizakurige.com\img\magazine_image2.jpg
+Content Type: image/jpeg
+
+Uri: https://hizakurige.com/img/magazine_image2.webp
+File Name: C:\Downloaded Web Sites\hizakurige.com\img\magazine_image2.webp
+Content Type: image/webp
+
+Uri: https://hizakurige.com/img/magazine_image2_sp.jpg
+File Name: C:\Downloaded Web Sites\hizakurige.com\img\magazine_image2_sp.jpg
+Content Type: image/jpeg
+
+Uri: https://hizakurige.com/img/magazine_image2_sp.webp
+File Name: C:\Downloaded Web Sites\hizakurige.com\img\magazine_image2_sp.webp
+Content Type: image/webp
+
+Uri: https://hizakurige.com/img/magazine_image3.jpg
+File Name: C:\Downloaded Web Sites\hizakurige.com\img\magazine_image3.jpg
+Content Type: image/jpeg
+
+Uri: https://hizakurige.com/img/magazine_image3.webp
+File Name: C:\Downloaded Web Sites\hizakurige.com\img\magazine_image3.webp
+Content Type: image/webp
+
+Uri: https://hizakurige.com/img/magazine_image3_sp.jpg
+File Name: C:\Downloaded Web Sites\hizakurige.com\img\magazine_image3_sp.jpg
+Content Type: image/jpeg
+
+Uri: https://hizakurige.com/img/magazine_image3_sp.webp
+File Name: C:\Downloaded Web Sites\hizakurige.com\img\magazine_image3_sp.webp
+Content Type: image/webp
+
+Uri: https://hizakurige.com/img/magazine_image4.jpg
+File Name: C:\Downloaded Web Sites\hizakurige.com\img\magazine_image4.jpg
+Content Type: image/jpeg
+
+Uri: https://hizakurige.com/img/magazine_image4.webp
+File Name: C:\Downloaded Web Sites\hizakurige.com\img\magazine_image4.webp
+Content Type: image/webp
+
+Uri: https://hizakurige.com/img/magazine_image4_sp.jpg
+File Name: C:\Downloaded Web Sites\hizakurige.com\img\magazine_image4_sp.jpg
+Content Type: image/jpeg
+
+Uri: https://hizakurige.com/img/magazine_image4_sp.webp
+File Name: C:\Downloaded Web Sites\hizakurige.com\img\magazine_image4_sp.webp
+Content Type: image/webp
+
+Uri: https://hizakurige.com/img/magazine_image5.jpg
+File Name: C:\Downloaded Web Sites\hizakurige.com\img\magazine_image5.jpg
+Content Type: image/jpeg
+
+Uri: https://hizakurige.com/img/magazine_image5.webp
+File Name: C:\Downloaded Web Sites\hizakurige.com\img\magazine_image5.webp
+Content Type: image/webp
+
+Uri: https://hizakurige.com/img/magazine_image5_sp.jpg
+File Name: C:\Downloaded Web Sites\hizakurige.com\img\magazine_image5_sp.jpg
+Content Type: image/jpeg
+
+Uri: https://hizakurige.com/img/magazine_image5_sp.webp
+File Name: C:\Downloaded Web Sites\hizakurige.com\img\magazine_image5_sp.webp
+Content Type: image/webp
+
+Uri: https://hizakurige.com/img/magazine_image6.jpg
+File Name: C:\Downloaded Web Sites\hizakurige.com\img\magazine_image6.jpg
+Content Type: image/jpeg
+
+Uri: https://hizakurige.com/img/magazine_image6.webp
+File Name: C:\Downloaded Web Sites\hizakurige.com\img\magazine_image6.webp
+Content Type: image/webp
+
+Uri: https://hizakurige.com/img/magazine_image6_sp.jpg
+File Name: C:\Downloaded Web Sites\hizakurige.com\img\magazine_image6_sp.jpg
+Content Type: image/jpeg
+
+Uri: https://hizakurige.com/img/magazine_image6_sp.webp
+File Name: C:\Downloaded Web Sites\hizakurige.com\img\magazine_image6_sp.webp
+Content Type: image/webp
+
+Uri: https://hizakurige.com/img/magazine_image7.jpg
+File Name: C:\Downloaded Web Sites\hizakurige.com\img\magazine_image7.jpg
+Content Type: image/jpeg
+
+Uri: https://hizakurige.com/img/magazine_image7.webp
+File Name: C:\Downloaded Web Sites\hizakurige.com\img\magazine_image7.webp
+Content Type: image/webp
+
+Uri: https://hizakurige.com/img/magazine_image7_sp.jpg
+File Name: C:\Downloaded Web Sites\hizakurige.com\img\magazine_image7_sp.jpg
+Content Type: image/jpeg
+
+Uri: https://hizakurige.com/img/magazine_image7_sp.webp
+File Name: C:\Downloaded Web Sites\hizakurige.com\img\magazine_image7_sp.webp
+Content Type: image/webp
+
+Uri: https://hizakurige.com/img/magazine_image8.jpg
+File Name: C:\Downloaded Web Sites\hizakurige.com\img\magazine_image8.jpg
+Content Type: image/jpeg
+
+Uri: https://hizakurige.com/img/magazine_image8.webp
+File Name: C:\Downloaded Web Sites\hizakurige.com\img\magazine_image8.webp
+Content Type: image/webp
+
+Uri: https://hizakurige.com/img/magazine_image8_sp.jpg
+File Name: C:\Downloaded Web Sites\hizakurige.com\img\magazine_image8_sp.jpg
+Content Type: image/jpeg
+
+Uri: https://hizakurige.com/img/magazine_image8_sp.webp
+File Name: C:\Downloaded Web Sites\hizakurige.com\img\magazine_image8_sp.webp
+Content Type: image/webp
+
+Uri: https://hizakurige.com/img/magazine_image9.jpg
+File Name: C:\Downloaded Web Sites\hizakurige.com\img\magazine_image9.jpg
+Content Type: image/jpeg
+
+Uri: https://hizakurige.com/img/magazine_image9.webp
+File Name: C:\Downloaded Web Sites\hizakurige.com\img\magazine_image9.webp
+Content Type: image/webp
+
+Uri: https://hizakurige.com/img/magazine_image9_sp.jpg
+File Name: C:\Downloaded Web Sites\hizakurige.com\img\magazine_image9_sp.jpg
+Content Type: image/jpeg
+
+Uri: https://hizakurige.com/img/magazine_image9_sp.webp
+File Name: C:\Downloaded Web Sites\hizakurige.com\img\magazine_image9_sp.webp
+Content Type: image/webp
+
+Uri: https://hizakurige.com/img/photo_image2_1.jpg
+File Name: C:\Downloaded Web Sites\hizakurige.com\img\photo_image2_1.jpg
+Content Type: image/jpeg
+
+Uri: https://hizakurige.com/img/photo_image2_1.webp
+File Name: C:\Downloaded Web Sites\hizakurige.com\img\photo_image2_1.webp
+Content Type: image/webp
+
+Uri: https://hizakurige.com/img/photo_image2_1_sp.jpg
+File Name: C:\Downloaded Web Sites\hizakurige.com\img\photo_image2_1_sp.jpg
+Content Type: image/jpeg
+
+Uri: https://hizakurige.com/img/photo_image2_1_sp.webp
+File Name: C:\Downloaded Web Sites\hizakurige.com\img\photo_image2_1_sp.webp
+Content Type: image/webp
+
+Uri: https://hizakurige.com/img/top_movie_poster.jpg
+File Name: C:\Downloaded Web Sites\hizakurige.com\img\top_movie_poster.jpg
+Content Type: image/jpeg
+
+Uri: https://hizakurige.com/img/top_movie_poster.webp
+File Name: C:\Downloaded Web Sites\hizakurige.com\img\top_movie_poster.webp
+Content Type: image/webp
+
+Uri: https://hizakurige.com/img/video_image1.jpg
+File Name: C:\Downloaded Web Sites\hizakurige.com\img\video_image1.jpg
+Content Type: image/jpeg
+
+Uri: https://hizakurige.com/img/video_image1.webp
+File Name: C:\Downloaded Web Sites\hizakurige.com\img\video_image1.webp
+Content Type: image/webp
+
+Uri: https://hizakurige.com/img/video_image1_sp.jpg
+File Name: C:\Downloaded Web Sites\hizakurige.com\img\video_image1_sp.jpg
+Content Type: image/jpeg
+
+Uri: https://hizakurige.com/img/video_image1_sp.webp
+File Name: C:\Downloaded Web Sites\hizakurige.com\img\video_image1_sp.webp
+Content Type: image/webp
+
+Uri: https://hizakurige.com/img/voice_image1.jpg
+File Name: C:\Downloaded Web Sites\hizakurige.com\img\voice_image1.jpg
+Content Type: image/jpeg
+
+Uri: https://hizakurige.com/img/voice_image1.webp
+File Name: C:\Downloaded Web Sites\hizakurige.com\img\voice_image1.webp
+Content Type: image/webp
+
+Uri: https://hizakurige.com/img/voice_image1_sp.jpg
+File Name: C:\Downloaded Web Sites\hizakurige.com\img\voice_image1_sp.jpg
+Content Type: image/jpeg
+
+Uri: https://hizakurige.com/img/voice_image1_sp.webp
+File Name: C:\Downloaded Web Sites\hizakurige.com\img\voice_image1_sp.webp
+Content Type: image/webp
+
+Uri: https://hizakurige.com/img/voice_image2.jpg
+File Name: C:\Downloaded Web Sites\hizakurige.com\img\voice_image2.jpg
+Content Type: image/jpeg
+
+Uri: https://hizakurige.com/img/voice_image2.webp
+File Name: C:\Downloaded Web Sites\hizakurige.com\img\voice_image2.webp
+Content Type: image/webp
+
+Uri: https://hizakurige.com/img/voice_image2_sp.jpg
+File Name: C:\Downloaded Web Sites\hizakurige.com\img\voice_image2_sp.jpg
+Content Type: image/jpeg
+
+Uri: https://hizakurige.com/img/voice_image2_sp.webp
+File Name: C:\Downloaded Web Sites\hizakurige.com\img\voice_image2_sp.webp
+Content Type: image/webp
+
+Uri: https://hizakurige.com/img/voice_image3.jpg
+File Name: C:\Downloaded Web Sites\hizakurige.com\img\voice_image3.jpg
+Content Type: image/jpeg
+
+Uri: https://hizakurige.com/img/voice_image3.webp
+File Name: C:\Downloaded Web Sites\hizakurige.com\img\voice_image3.webp
+Content Type: image/webp
+
+Uri: https://hizakurige.com/img/voice_image3_sp.jpg
+File Name: C:\Downloaded Web Sites\hizakurige.com\img\voice_image3_sp.jpg
+Content Type: image/jpeg
+
+Uri: https://hizakurige.com/img/voice_image3_sp.webp
+File Name: C:\Downloaded Web Sites\hizakurige.com\img\voice_image3_sp.webp
+Content Type: image/webp
+
+Uri: https://hizakurige.com/img/voice_image4.jpg
+File Name: C:\Downloaded Web Sites\hizakurige.com\img\voice_image4.jpg
+Content Type: image/jpeg
+
+Uri: https://hizakurige.com/img/voice_image4.webp
+File Name: C:\Downloaded Web Sites\hizakurige.com\img\voice_image4.webp
+Content Type: image/webp
+
+Uri: https://hizakurige.com/img/voice_image4_sp.jpg
+File Name: C:\Downloaded Web Sites\hizakurige.com\img\voice_image4_sp.jpg
+Content Type: image/jpeg
+
+Uri: https://hizakurige.com/img/voice_image4_sp.webp
+File Name: C:\Downloaded Web Sites\hizakurige.com\img\voice_image4_sp.webp
+Content Type: image/webp
+
+Uri: https://hizakurige.com/js/lottie.js
+File Name: C:\Downloaded Web Sites\hizakurige.com\js\lottie.js
+Content Type: application/javascript
+
+Uri: https://hizakurige.com/js/smooth-scroll.polyfills.min.js
+File Name: C:\Downloaded Web Sites\hizakurige.com\js\smooth-scroll.polyfills.min.js
+Content Type: application/javascript
+
+Uri: https://hizakurige.com/js/yall.min.js
+File Name: C:\Downloaded Web Sites\hizakurige.com\js\yall.min.js
+Content Type: application/javascript
+
+Uri: https://hizakurige.com/movie/magazine.mp4
+File Name: C:\Downloaded Web Sites\hizakurige.com\movie\magazine.mp4
+Content Type: video/mp4
+
+Uri: https://hizakurige.com/movie/top_movie.mp4
+File Name: C:\Downloaded Web Sites\hizakurige.com\movie\top_movie.mp4
+Content Type: video/mp4
+
+Uri: https://hizakurige.com/movie/voice1.mp4
+File Name: C:\Downloaded Web Sites\hizakurige.com\movie\voice1.mp4
+Content Type: video/mp4
+
+Uri: https://hizakurige.com/movie/voice2.mp4
+File Name: C:\Downloaded Web Sites\hizakurige.com\movie\voice2.mp4
+Content Type: video/mp4
+
+Uri: https://hizakurige.com/movie/voice3.mp4
+File Name: C:\Downloaded Web Sites\hizakurige.com\movie\voice3.mp4
+Content Type: video/mp4
+
+Uri: https://hizakurige.com/movie/voice4.mp4
+File Name: C:\Downloaded Web Sites\hizakurige.com\movie\voice4.mp4
+Content Type: video/mp4
+
+Uri: https://hizakurige.com/privacy
+File Name: C:\Downloaded Web Sites\hizakurige.com\privacy.html
+Content Type: text/html
+
+Uri: https://hizakurige.com/static/css/7.3f490c57.chunk.css
+File Name: C:\Downloaded Web Sites\hizakurige.com\static\css\7.3f490c57.chunk.css
+Content Type: text/css
+
+Uri: https://hizakurige.com/static/js/7.820df178.chunk.js
+File Name: C:\Downloaded Web Sites\hizakurige.com\static\js\7.820df178.chunk.js
+Content Type: application/javascript
+
+Uri: https://hizakurige.com/static/js/main.c7e36e99.chunk.js
+File Name: C:\Downloaded Web Sites\hizakurige.com\static\js\main.c7e36e99.chunk.js
+Content Type: application/javascript
+
+Uri: https://hizakurige.com/static/media/slick.2630a3e3.svg
+File Name: C:\Downloaded Web Sites\hizakurige.com\static\media\slick.2630a3e3.svg
+Content Type: image/svg+xml
+
+Uri: https://hizakurige.com/static/media/slick.29518378.woff
+File Name: C:\Downloaded Web Sites\hizakurige.com\static\media\slick.29518378.woff
+Content Type: font/woff
+
+Uri: https://hizakurige.com/static/media/slick.a4e97f5a.eot
+File Name: C:\Downloaded Web Sites\hizakurige.com\static\media\slick.a4e97f5a.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://hizakurige.com/static/media/slick.a4e97f5a.eot?
+File Name: C:\Downloaded Web Sites\hizakurige.com\static\media\slick.a4e97f5a-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://hizakurige.com/static/media/slick.c94f7671.ttf
+File Name: C:\Downloaded Web Sites\hizakurige.com\static\media\slick.c94f7671.ttf
+Content Type: application/octet-stream
+
+Uri: https://hizakurige.com/style.css
+File Name: C:\Downloaded Web Sites\hizakurige.com\style.css
+Content Type: text/css
+
+Uri: https://hizakurige.com/term-of-use
+File Name: C:\Downloaded Web Sites\hizakurige.com\term-of-use.html
+Content Type: text/html
+
+Uri: https://p.typekit.net/p.css?s=1&k=ryb7lfw&ht=tk&f=29196&a=16358296&app=typekit&e=css
+File Name: C:\Downloaded Web Sites\hizakurige.com\p.css
+Content Type: text/css
+
+Uri: https://polyfill.io/v3/polyfill.min.js?features=IntersectionObserver
+File Name: C:\Downloaded Web Sites\hizakurige.com\v3\polyfill.min.js
+Content Type: text/javascript
+
+Uri: https://typesquare.com/3/tsst/script/ja/typesquare.js?5c90ecbe7a9c4402876f6990e90393a3
+File Name: C:\Downloaded Web Sites\hizakurige.com\3\tsst\script\ja\typesquare.js
+Content Type: application/x-javascript
+
+Uri: https://use.typekit.net/af/8a2d0a/00000000000000003b9ae043/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3
+File Name: C:\Downloaded Web Sites\hizakurige.com\af\8a2d0a\00000000000000003b9ae043\27\a
+Content Type: font/opentype
+
+Uri: https://use.typekit.net/af/8a2d0a/00000000000000003b9ae043/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3
+File Name: C:\Downloaded Web Sites\hizakurige.com\af\8a2d0a\00000000000000003b9ae043\27\d
+Content Type: application/font-woff
+
+Uri: https://use.typekit.net/af/8a2d0a/00000000000000003b9ae043/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3
+File Name: C:\Downloaded Web Sites\hizakurige.com\af\8a2d0a\00000000000000003b9ae043\27\l
+Content Type: application/font-woff2
+
+Uri: https://use.typekit.net/ryb7lfw.css
+File Name: C:\Downloaded Web Sites\hizakurige.com\ryb7lfw.css
+Content Type: text/css
+

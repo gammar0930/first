@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="121.373" height="121.372" viewBox="0 0 121.373 121.372">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#08b794"/>
+      <stop offset="1" stop-color="#069edd"/>
+    </linearGradient>
+  </defs>
+  <g id="グループ_2489" data-name="グループ 2489" transform="translate(-598.177 -1942.177)">
+    <g id="グループ_2419" data-name="グループ 2419" transform="translate(645 1977)">
+      <path id="多角形_4" data-name="多角形 4" d="M23.647,2.468a2,2,0,0,1,3.319,0L48.519,34.52a2,2,0,0,1-1.66,3.116H3.755A2,2,0,0,1,2.1,34.52Z" transform="translate(37.636) rotate(90)" fill="url(#linear-gradient)"/>
+    </g>
+    <g id="グループ_2472" data-name="グループ 2472" transform="translate(409.292 1883.86)">
+      <path id="パス_41264" data-name="パス 41264" d="M327.988,107.159h1.6a62,62,0,0,0-48.843-48.842v1.6A60.428,60.428,0,0,1,327.988,107.159Z" transform="translate(-19.334)" fill="#fff"/>
+      <path id="パス_41265" data-name="パス 41265" d="M237.729,59.921v-1.6a62,62,0,0,0-48.844,48.842h1.6A60.428,60.428,0,0,1,237.729,59.921Z" transform="translate(0)" fill="#fff"/>
+      <path id="パス_41266" data-name="パス 41266" d="M190.489,150.179h-1.6a62,62,0,0,0,48.844,48.843v-1.6A60.428,60.428,0,0,1,190.489,150.179Z" transform="translate(0 -19.333)" fill="#fff"/>
+      <path id="パス_41267" data-name="パス 41267" d="M280.749,197.419v1.6a62,62,0,0,0,48.843-48.843h-1.6A60.428,60.428,0,0,1,280.749,197.419Z" transform="translate(-19.334 -19.333)" fill="#fff"/>
+    </g>
+  </g>
+</svg>
